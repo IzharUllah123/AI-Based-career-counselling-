@@ -1,0 +1,11 @@
+KNeighborsClassifier
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+DecisionTreeClassifier
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+BaggingClassifier
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html
+
+KFold
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html

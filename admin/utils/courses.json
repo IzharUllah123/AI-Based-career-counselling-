@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://www.w3schools.com/jquery/default.asp",
+    "title": "The Complete jQuery Course",
+    "image": "http://localhost/career/img/coursejq.jpg",
+    "category": "Web Development",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/css/default.asp",
+    "title": "Introduction to CSS",
+    "image": "http://localhost/career/img/course02.jpg",
+    "category": "Web Design",
+    "price": "Free"
+  },
+  {
+    "url": "https://progate.com/courses/java",
+    "title": "The Complete course on HTML",
+    "image": "http://localhost/career/img/coursehtml.jpg",
+    "category": "Web Development",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/bootstrap4/default.asp",
+    "title": "Introduction to Bootstrap",
+    "image": "http://localhost/career/img/coursebtsp.jpg",
+    "category": "Web Design",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/cs/default.asp",
+    "title": "JavaScript Tutorial",
+    "image": "http://localhost/career/img/coursejs.jpg",
+    "category": "Web Development",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.udemy.com/course/the-complete-c-programming/",
+    "title": "React Tutorial",
+    "image": "http://localhost/career/img/courserea.jpg",
+    "category": "Web Development",
+    "price": "Free"
+  },
+  {
+    "url": "https://progate.com/courses/java",
+    "title": "Ruby Tips and Tricks",
+    "image": "http://localhost/career/img/courseruby.jpg",
+    "category": "Web Development",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.w3schools.com/bootstrap4/default.asp",
+    "title": "HTML & CSS",
+    "image": "http://localhost/career/img/course04.jpg",
+    "category": "Web Development",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.w3schools.com/cs/default.asp",
+    "title": "Ruby on Rails5",
+    "image": "http://localhost/career/img/courseror.jpg",
+    "category": "Web Development",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.udemy.com/course/the-complete-c-programming/",
+    "title": "Introduction to Sass",
+    "image": "http://localhost/career/img/coursesass.jpg",
+    "category": "Web Development",
+    "price": "Premium"
+  },
+  {
+    "url": "https://progate.com/courses/java",
+    "title": "React complete course",
+    "image": "http://localhost/career/img/coursereact.jpg",
+    "category": "Web Development",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.w3schools.com/bootstrap4/default.asp",
+    "title": "Complete guide on JavaScript",
+    "image": "http://localhost/career/img/coursejas.jpg",
+    "category": "Web Development",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.datacamp.com/tracks/r-programming",
+    "title": "R Programming",
+    "image": "http://localhost/career/img/course01.jpg",
+    "category": "Programming",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/cpp/default.asp",
+    "title": "Learn C++",
+    "image": "http://localhost/career/img/coursecpp.jpg",
+    "category": "Programming",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/java/default.asp",
+    "title": "Java Tutorial",
+    "image": "http://localhost/career/img/coursejava.jpg",
+    "category": "Programming",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/bootstrap4/default.asp",
+    "title": "Complete guide on python",
+    "image": "http://localhost/career/img/coursepy.jpg",
+    "category": "Programming",
+    "price": "Free"
+  },
+  {
+    "url": "https://progate.com/courses/java",
+    "title": "Core Java",
+    "image": "http://localhost/career/img/coursejv.jpg",
+    "category": "Programming",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.w3schools.com/bootstrap4/default.asp",
+    "title": "Python Programming",
+    "image": "http://localhost/career/img/coursepyth.jpg",
+    "category": "Programming",
+    "price": "Premium"
+  },
+  {
+    "url": "https://www.w3schools.com/cs/default.asp",
+    "title": "C# Tutorial",
+    "image": "http://localhost/career/img/coursec.jpg",
+    "category": "Programming",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.udemy.com/course/the-complete-c-programming/",
+    "title": "Complete C programming",
+    "image": "http://localhost/career/img/coursecp.jpg",
+    "category": "Programming",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/git/default.asp",
+    "title": "PHP Tips, Tricks, and Techniques",
+    "image": "http://localhost/career/img/course05.jpg",
+    "category": "Server Side",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/git/default.asp",
+    "title": "SQL Tutorial",
+    "image": "http://localhost/career/img/coursesql.jpg",
+    "category": "Server Side",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/git/default.asp",
+    "title": "Node.js crash course",
+    "image": "http://localhost/career/img/coursend.jpg",
+    "category": "Server Side",
+    "price": "Free"
+  },
+  {
+    "url": "https://www.w3schools.com/git/default.asp",
+    "title": "Mastering Git",
+    "image": "http://localhost/career/img/coursegit.jpg",
+    "category": "Server Side",
+    "price": "Free"
+  }
+]

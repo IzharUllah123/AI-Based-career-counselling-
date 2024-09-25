@@ -1,0 +1,50 @@
+<style>
+  section {
+    font-family: sans-serif;
+    letter-spacing: 1;
+  }
+</style>
+
+<h2>DEAR {{ name }}</h2>
+<section id="theory">
+  <p>
+    We would like to take this opportunity to congratulate you on taking the
+    first step in choosing a suitable career for yourself and thank you for
+    trusting AI-Based-Career-Counseling-Systemto make suitable career
+    suggestions based on your knowledge, interests and subject areas. We
+    sincerely hope this report will help you in making an informed decision
+    about your undergraduate degree and future career.
+  </p>
+  <p>
+    The next tabs will present comprehensive results of your skills, interests,
+    and strong subject areas. Based on these results, our AI model will present
+    the three ideal career fields for you in Computer Science domain.
+  </p>
+  <p>
+    While it is your decision to pursue a certain career, it is generally noted
+    that studying subjects that one has a natural flair or instinct for gives
+    students an edge. We hope to help you make an informed decision about your
+    future.
+  </p>
+  <p>
+    Lastly, please note that this report contains your personalized information
+    and suggestions for your career. We strongly advise against sharing it with
+    a wider audience. It is also against the Terms and Conditions of the test
+    and company to share content of this report on internet or social media.
+  </p>
+  <p>
+    Wishing you the best with your future endeavors. <br />
+    All the best, <br />
+    AI-Based-Career-Counseling-System Team <br />
+  </p>
+</section>
+<section>
+  <h2>The top Career Paths that match your skills!</h2>
+  {%for key, value in final_res.items(): %}
+  <a href="http://localhost/blog.php" style="text-decoration: none; color: inherit">
+    <h3>{{job_dict[value]}}</h3>
+  </a>
+  <p>{{ job_descriptions[value] }}</p>
+  <br />
+  {%endfor%}
+</section>
