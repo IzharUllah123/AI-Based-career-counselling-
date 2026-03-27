@@ -1,3 +1,11 @@
+
+# ============================================
+# AI-Based Career Counselling - ML Pipeline
+# Model: BaggingClassifier (50 Decision Trees)
+# Dataset: 9000 samples, 17 skill features
+# Author: IzharUllah123
+# ============================================
+
 from sklearn import model_selection
 from sklearn.ensemble import BaggingClassifier
 from sklearn.tree import DecisionTreeClassifier
