@@ -24,7 +24,7 @@ kfold = model_selection.KFold(n_splits = 15,
                        random_state = seed)
   
 # initialize the base classifier
-base_cls = DecisionTreeClassifier()
+base_cls = DecisionTreeClassifier(random_state=seed)  # fix nondeterminism
   
 # no. of base classifier
 num_trees = 50
